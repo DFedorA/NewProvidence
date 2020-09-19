@@ -1,0 +1,207 @@
+@media screen and (max-width:1200px) {
+
+
+}
+
+@media screen and (max-width:992px) {
+
+.nav_effect:before
+{
+	top: 0;
+	left: 0;
+	width: 0%;
+	height: 0%;
+
+
+}
+.parallax_phone {
+    max-width: 640px;
+    max-height: 557px;
+}
+    
+.pro__img {
+    width: 450px;
+    height: 450px;
+}
+.pro__item_2 {
+    margin-left: 10%;
+    margin-top: 100px;
+}
+.learn__btn {
+    margin-left: 45px;
+}
+
+.local__img {
+
+     margin-top: 0px; 
+}
+.local__item_2{
+
+    margin-top: 0px;
+
+}
+.adv__item_2 {
+     margin-left: 0%;
+}
+.local__img_2 {
+    margin-left: 20px;
+}
+#interface {
+    height: 800px;
+    margin-top: 100px;
+}
+.inter__top_2{
+	margin-top: 50px;
+}
+
+}
+
+
+
+@media screen and (max-width:768px) {
+	.parallax_phone {
+    max-width: 640px;
+    max-height: 590px;
+}
+    #interface {
+        height: 1200px;
+        margin-top: 100px;
+    }
+.adv__text{
+	    width: 100%;
+}
+.adv__img_second {
+    background: url(../img/Shape2.png) no-repeat center center;
+    margin-top: 45px;
+    margin: auto;
+}
+.adv__img_first {
+	background: url(../img/Shape.png) no-repeat center;
+  margin: auto;
+}
+.adv__title {
+ text-align: center;
+ margin-bottom: 20px;
+    margin-top: 20px
+}
+video{
+    opacity: 0;
+}
+.pro__img {
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+}
+.hidden_0{
+	display: none;
+
+}
+.hidden_1{
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 14px;
+}
+.learn__btn {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.local__img_2 {
+    margin-top: 18px;
+    margin-left: -8px;
+}
+    .fa-chevron-right:before {
+        display: none;
+    }
+    .fa-chevron-left:before {
+   display: none;
+    }
+ li.plan__item{
+     text-align: center;
+ }
+    #container_2 {
+        margin: 30px auto;
+    }
+    /*.footer__download__btn{*/
+        /*margin-left: 150px;*/
+    /*}*/
+ .plan__text{
+     margin: 10px auto;
+ }
+
+
+    #plan{
+        height: 950px;
+    }
+    #location{
+        height: 600px;
+    }
+
+}
+@media screen and (max-width:575px) {
+.parallax_phone{
+	display: none;
+
+}
+.pro__hack {
+    margin: auto;
+}
+.learn__btn {
+     margin: 10px auto ;
+}
+.hidden_3{
+	display: none;
+
+}
+.pro__title{
+text-align: center;
+}
+.pro__img {
+    width: 250px;
+    height: 280px;
+    margin-top: 150px;
+    padding-top: 30px;
+    margin-left: 30%;
+
+}
+.local__title {
+    text-align: center;
+}
+.local__text {
+    text-align: center;
+}
+    #plan{
+        height: 1000px;
+    }
+    .subscribe__mail{
+        width: 280px;
+    }
+    .subscribe__order__btn{
+        margin-left: -3px;
+    }
+    .order_mail{
+        width:250px;
+    }
+    .order__btn{
+        margin-left: -20px;
+    }
+
+}
+@media screen and (max-width:485px) {
+    #plan{
+        height: 1400px;
+    }
+}
+@media screen and (max-width:377px) {
+.pro__img {
+   display: none;
+
+}
+.pro__top{
+margin-top: 200px;
+}
+}
+
+
+
+
+
